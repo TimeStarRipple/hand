@@ -1,1 +1,4 @@
+姓名：张玉斌
+工号：10983
+运行命令：
 mvn clean compile exec:java -Dexec.mainClass="com.hand.zyb.java.App" -Dexec.args="arg0 arg1 arg2"
